@@ -1,10 +1,13 @@
 {
-  "name": "ketul-shah",
-  "version": "1.0.19",
+  "name": "ketul_shah",
+  "version": "1.0.20",
   "description": "A tabbed pane component using React.js",
   "author": "adafycheng",
   "license": "MIT",
-  "repository": "adafycheng/reactjs-tabbedpane-component",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adafycheng/reactjs-tabbedpane-component.git"
+  },
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
@@ -53,8 +56,15 @@
   ],
   "dependencies": {
     "jquery": "^3.6.2",
-    "reactjs-tabbedpane-component": "^1.0.20",
     "sass": "^1.63.2",
     "yarn": "^1.22.19"
-  }
+  },
+  "directories": {
+    "example": "example"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/adafycheng/reactjs-tabbedpane-component/issues"
+  },
+  "homepage": "https://github.com/adafycheng/reactjs-tabbedpane-component#readme"
 }
