@@ -57,7 +57,7 @@
   "dependencies": {
     "jquery": "^3.6.2",
     "sass": "^1.63.2",
-    "yarn": "^1.22.19"
+    "yarn": "^1.22.22"
   },
   "directories": {
     "example": "example"
